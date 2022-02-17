@@ -1,0 +1,4 @@
+name: InfiniteLiquids
+version: '${project.version}'
+main: net.badbird5907.infiniteliquids.InfiniteLiquids
+api-version: 1.18
